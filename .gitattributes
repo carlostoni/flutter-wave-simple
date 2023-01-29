@@ -1,4 +1,4 @@
 * linguist-vendored
 *.c++ linguist-vendored=false
 *.cmaker linguist-vendored=false
-*.dart linguist-detectable=true
+*.dart linguist-vendored=true
