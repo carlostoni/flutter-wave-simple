@@ -1,6 +1,19 @@
 
 A new Flutter project.
 
+### :iphone: Dependencies:
+ -  wave: ^0.2.2
+ 
+ <p>
+ <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+ <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</p>
+
+## Software operation
+![untitled](https://user-images.githubusercontent.com/80012970/215331504-da3331fb-522f-47de-9206-63e0cab9156b.gif)
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
