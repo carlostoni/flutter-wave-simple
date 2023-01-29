@@ -10,7 +10,7 @@ A new Flutter project.
 </p>
 
 ## Software operation
-![untitled](https://user-images.githubusercontent.com/80012970/215331504-da3331fb-522f-47de-9206-63e0cab9156b.gif width="480")
+![untitled](https://user-images.githubusercontent.com/80012970/215331504-da3331fb-522f-47de-9206-63e0cab9156b.gif )
 
 
 
